@@ -62,7 +62,6 @@ public class reverse {
         // result 1->null
         Node test2 = new Node(1);
         System.out.println(print(i.reverseList1(test2)));
-**__**
     }
 }
 ```
